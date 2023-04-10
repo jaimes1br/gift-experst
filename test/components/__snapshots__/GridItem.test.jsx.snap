@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test on <GridItem/> should match with snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="One piece"
+      src="https://one-piece.com/luffy.jpg"
+    />
+    <p>
+      One piece
+    </p>
+  </div>
+</div>
+`;
